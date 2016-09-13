@@ -1,3 +1,3 @@
 # hello-world
 my first repository
-<br>sample sample
+<br><font color="red">sample sample</font>
